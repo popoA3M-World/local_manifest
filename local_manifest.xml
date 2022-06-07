@@ -6,7 +6,7 @@
 <!-- E trees -->
 	
         <project path="device/10or/E" name="device_10or_E-a10" remote="p" revision="main" clone-depth="1" />
-        <project path="vendor/10or/E" name="vendor_10or_E-a10" remote="p" revision="main" clone-depth="1" />
+        <project path="vendor/10or/E" name="vt_E" remote="p" revision="main" clone-depth="1" />
         <project path="kernel/10or/E" name="kernel_10or_E" remote="p" revision="main" clone-depth="1" />
 	        
 </manifest>
